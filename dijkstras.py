@@ -25,7 +25,7 @@ def dijkstra(edges, n, k):
     return dist
 
 """
-Time: O(E * lgE)
+Time: O(E * lgV)
 Space: O(V + E)
 """
 
